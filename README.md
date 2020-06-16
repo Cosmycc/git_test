@@ -1,0 +1,1 @@
+This is Cosmyc`s first git project!
